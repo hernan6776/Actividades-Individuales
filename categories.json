@@ -1,26 +1,26 @@
 [
   {
-    "category": "Cultura",
-    "description": "Preguntas relacionadas con arte, literatura, música y otras expresiones culturales."
+    "category": "Geografía",
+    "description": "Preguntas sobre países, capitales, continentes, montañas, ríos y lugares famosos. "
   },
   {
-    "category": "Deportes",
-    "description": "Preguntas relacionadas con diversos deportes y eventos deportivos."
+    "category": "Naturaleza y animales",
+    "description": "Preguntas sobre animales, plantas, ecosistemas, fenómenos naturales y conservación del medio ambiente."
   },
   {
-    "category": "Arte",
-    "description": "Preguntas relacionadas con pintura, escultura, arquitectura y otras formas de expresión artística."
+    "category": "Viajes",
+    "description": "Pregunta sobre destinos turísticos, atracciones famosas, cultura local, gastronomía y curiosidades de diferentes países y ciudades."
   },
   {
-    "category": "Cine",
-    "description": "Preguntas relacionadas con películas, directores, actores y otros aspectos del cine."
+    "category": "Cine y Series",
+    "description": "Preguntas relacionadas con películas, directores, series y otros aspectos del cine."
   },
   {
     "category": "Historia",
-    "description": "Preguntas relacionadas con eventos históricos, personajes y períodos importantes."
+    "description": "Preguntas sobre eventos, personajes y fechas históricas importantes."
   },
   {
-    "category": "Ciencia",
-    "description": "Preguntas relacionadas con diferentes ramas de la ciencia, descubrimientos y avances científicos."
+    "category": "Cultura general",
+    "description": "Preguntas variadas sobre diversos temas, como cultura pop, comida, personajes famosos, inventos, curiosidades y más."
   }
 ]
