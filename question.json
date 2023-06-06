@@ -1,44 +1,8 @@
-[
   {
     "category": "Geografía",
     "question":"¿Cuál es la capital de los Estados Unidos?",
     "options":["Nueva York","Filadelfia","New Jersey","Washington DC"],
     "answer": 3,
     "explanation": "Fundada el 16 de julio de 1790, Washington, DC es única entre las ciudades estadounidenses porque fue establecida por la Constitución de los Estados Unidos para servir como la capital de la nación"
-  },
-  {
-    "category": "Naturaleza y animales",
-    "question":"¿Cuál es el animal terrestre más grande del mundo?",
-    "options":["Rinoceronte", "Elefante","Jirafa","Oso polar"],
-    "answer": 1,
-    "explanation": "El animal terrestre más grande del mundo es el elefante africano, específicamente la subespecie de elefante africano de sabana (Loxodonta africana). Los machos adultos pueden alcanzar una altura de hasta 4 metros y un peso de más de 7 toneladas."
-  },
-  {
-    "category": "Viajes",
-    "question":"¿Cuál es la capital de Australia? ",
-    "options":["Melbourne", "Sidney", "Canberra","Brisbane"],
-    "answer": 2,
-    "explanation": "La capital de Australia es Canberra. Aunque muchas personas pueden pensar que la capital es Sídney debido a su popularidad, Canberra fue elegida como la capital en 1908 debido a su ubicación neutral entre las dos ciudades más grandes de Australia, Sídney y Melbourne."
-  },
-  {
-    "category": "Cine y Series",
-    "question":"¿Cuál fue la primera película de la saga de `Star Wars´ lanzada en 1977?",
-    "options":["Star Wars: El Despertar de la Fuerza", "Star Wars: El ultimo Jedi", "Star Wars: El ataque de los clones", "Star Wars: Una nueva Esperanza"],
-    "answer": 3,
-    "explanation": "La primera película de la saga de 'Star Wars' lanzada en 1977 es titulada 'Star Wars: Una nueva Esperanza' (conocida como 'Star Wars' o 'La guerra de las galaxias'). Fue escrita y dirigida por George Lucas y se convirtió en un fenómeno cultural y un hito en la historia del cine."
-  },
-  {
-    "category": "Historia",
-    "question":"¿En qué año tuvo lugar la Revolución Francesa?",
-    "options":[1889,1756,1789,1777,1799],
-    "answer": 2,
-    "explanation":"La Revolución Francesa tuvo lugar en el año 1789. Comenzó con la toma de la Bastilla el 14 de julio de ese año y continuó hasta el año 1799, marcando un período de cambios políticos, sociales y culturales significativos en Francia. La Revolución Francesa desencadenó importantes transformaciones en el país y sentó las bases para la abolición del antiguo régimen monárquico y el surgimiento de la Primera República Francesa." 
-  },
-  {
-    "category": "Cultura general",
-    "question":" ¿Cuál es el país más grande del mundo en términos de superficie terrestre?",
-    "options":["EEUU","Rusia","Canada","Brasil"],
-    "answer": 1,
-    "explanation": "El país más grande del mundo en términos de superficie terrestre es Rusia. Con aproximadamente 17.1 millones de kilómetros cuadrados, Rusia abarca gran parte de Europa del Este y Asia del Norte. Su extenso territorio se extiende desde Europa Oriental hasta el océano Pacífico, y abarca once husos horarios."
   }
-]
+
